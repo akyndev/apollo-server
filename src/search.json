@@ -1,0 +1,742 @@
+{
+  "hits": [
+    {
+      "created_at": "2017-06-16T13:03:09.000Z",
+      "title": "Amazon to Acquire Whole Foods for $13.7B",
+      "url": "https://www.bloomberg.com/news/articles/2017-06-16/amazon-to-buy-whole-foods?cmpid=socialflow-twitter-business\u0026utm_content=business\u0026utm_campaign=socialflow-organic\u0026utm_source=twitter\u0026utm_medium=social",
+      "author": "whatok",
+      "points": 1687,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 824,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1497618189,
+      "relevancy_score": 7487,
+      "_tags": ["story", "author_whatok", "story_14568468"],
+      "objectID": "14568468",
+      "_highlightResult": {
+        "title": {
+          "value": "Amazon to Acquire Whole \u003cem\u003eFoo\u003c/em\u003eds for $13.7B",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.bloomberg.com/news/articles/2017-06-16/amazon-to-buy-whole-\u003cem\u003efoo\u003c/em\u003eds?cmpid=socialflow-twitter-business\u0026utm_content=business\u0026utm_campaign=socialflow-organic\u0026utm_source=twitter\u0026utm_medium=social",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "whatok",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-09-22T20:33:53.000Z",
+      "title": "Google Drive of historical footage locked and flagged as terrorist activity",
+      "url": "https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en",
+      "author": "knaik94",
+      "points": 1595,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 494,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1632342833,
+      "_tags": ["story", "author_knaik94", "story_28621412"],
+      "objectID": "28621412",
+      "_highlightResult": {
+        "title": {
+          "value": "Google Drive of historical \u003cem\u003efoo\u003c/em\u003etage locked and flagged as terrorist activity",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://support.google.com/drive/thread/127021326/google-has-locked-my-account-for-sharing-a-historical-archive-they-labeled-as-terrorist-activity?hl=en",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "knaik94",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2011-09-23T13:24:09.000Z",
+      "title": "I was once a Facebook fool",
+      "url": "http://public.numair.com/2011_fbfool.html",
+      "author": "numair",
+      "points": 1368,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 168,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1316784249,
+      "relevancy_score": 3469,
+      "_tags": ["story", "author_numair", "story_3029872"],
+      "objectID": "3029872",
+      "_highlightResult": {
+        "title": {
+          "value": "I was once a Facebook \u003cem\u003efoo\u003c/em\u003el",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "http://public.numair.com/2011_fbfool.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "numair",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": { "value": "", "matchLevel": "none", "matchedWords": [] }
+      }
+    },
+    {
+      "created_at": "2020-12-03T16:31:23.000Z",
+      "title": "Drone Footage of Arecibo Observatory Collapse",
+      "url": "https://www.nsf.gov/news/special_reports/arecibo/",
+      "author": "uptown",
+      "points": 892,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 229,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1607013083,
+      "_tags": ["story", "author_uptown", "story_25290629"],
+      "objectID": "25290629",
+      "_highlightResult": {
+        "title": {
+          "value": "Drone \u003cem\u003eFoo\u003c/em\u003etage of Arecibo Observatory Collapse",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.nsf.gov/news/special_reports/arecibo/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "uptown",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-09-27T11:53:41.000Z",
+      "title": "foo@bar.com",
+      "url": "https://www.bar.com/",
+      "author": "diggan",
+      "points": 852,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 281,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1601207621,
+      "_tags": ["story", "author_diggan", "story_24605949"],
+      "objectID": "24605949",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003efoo\u003c/em\u003e@bar.com",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.bar.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "diggan",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-04-01T11:48:38.000Z",
+      "title": "Burger King is introducing a vegetarian patty from the start-up Impossible Foods",
+      "url": "https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html",
+      "author": "charliepark",
+      "points": 848,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 637,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1554119318,
+      "relevancy_score": 8750,
+      "_tags": ["story", "author_charliepark", "story_19542379"],
+      "objectID": "19542379",
+      "_highlightResult": {
+        "title": {
+          "value": "Burger King is introducing a vegetarian patty from the start-up Impossible \u003cem\u003eFoo\u003c/em\u003eds",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "charliepark",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2022-07-13T12:52:06.000Z",
+      "title": "Amazon admits giving police Ring camera footage without consent",
+      "url": "https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/",
+      "author": "Pakdef",
+      "points": 818,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 510,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1657716726,
+      "_tags": ["story", "author_Pakdef", "story_32081900"],
+      "objectID": "32081900",
+      "_highlightResult": {
+        "title": {
+          "value": "Amazon admits giving police Ring camera \u003cem\u003efoo\u003c/em\u003etage without consent",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://theintercept.com/2022/07/13/amazon-ring-camera-\u003cem\u003efoo\u003c/em\u003etage-police-ed-markey/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "Pakdef",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-05-10T22:58:15.000Z",
+      "title": "Emails Show FDA Chemists Have Been Finding Glyphosate in Food",
+      "url": "https://modernfarmer.com/2018/05/emails-show-fda-chemists-have-been-quietly-finding-glyphosate-in-food/",
+      "author": "clumsysmurf",
+      "points": 691,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 316,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1525993095,
+      "relevancy_score": 8119,
+      "_tags": ["story", "author_clumsysmurf", "story_17043629"],
+      "objectID": "17043629",
+      "_highlightResult": {
+        "title": {
+          "value": "Emails Show FDA Chemists Have Been Finding Glyphosate in \u003cem\u003eFoo\u003c/em\u003ed",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://modernfarmer.com/2018/05/emails-show-fda-chemists-have-been-quietly-finding-glyphosate-in-\u003cem\u003efoo\u003c/em\u003ed/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "clumsysmurf",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-03-14T03:21:05.000Z",
+      "title": "Reprojecting the Perseverance landing footage onto satellite imagery",
+      "url": "https://matthewearl.github.io/2021/03/06/mars2020-reproject/",
+      "author": "bmease",
+      "points": 633,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 37,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1615692065,
+      "_tags": ["story", "author_bmease", "story_26452504"],
+      "objectID": "26452504",
+      "_highlightResult": {
+        "title": {
+          "value": "Reprojecting the Perseverance landing \u003cem\u003efoo\u003c/em\u003etage onto satellite imagery",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://matthewearl.github.io/2021/03/06/mars2020-reproject/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bmease",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-07-26T18:59:17.000Z",
+      "title": "How is China able to provide enough food to feed over 1B people?",
+      "url": "https://www.quora.com/How-is-China-able-to-provide-enough-food-to-feed-its-population-of-over-1-billion-people-Do-they-import-food-or-are-they-self-sustainable?share=1",
+      "author": "carapace",
+      "points": 594,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 330,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1564167557,
+      "relevancy_score": 8966,
+      "_tags": ["story", "author_carapace", "story_20537409"],
+      "objectID": "20537409",
+      "_highlightResult": {
+        "title": {
+          "value": "How is China able to provide enough \u003cem\u003efoo\u003c/em\u003ed to feed over 1B people?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.quora.com/How-is-China-able-to-provide-enough-\u003cem\u003efoo\u003c/em\u003ed-to-feed-its-population-of-over-1-billion-people-Do-they-import-\u003cem\u003efoo\u003c/em\u003ed-or-are-they-self-sustainable?share=1",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "carapace",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-04-01T06:49:10.000Z",
+      "title": "List of April Fools' Day Announcements",
+      "url": null,
+      "author": "conroy",
+      "points": 592,
+      "story_text": "Instead of cluttering the front page with fake product announcements, let\u0026#x27;s just post them in here instead. One thread where each top-level comment is just a title and a link.",
+      "comment_text": null,
+      "num_comments": 538,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1427870950,
+      "relevancy_score": 5942,
+      "_tags": ["story", "author_conroy", "story_9302010"],
+      "objectID": "9302010",
+      "_highlightResult": {
+        "title": {
+          "value": "List of April \u003cem\u003eFoo\u003c/em\u003els' Day Announcements",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "conroy",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "Instead of cluttering the front page with fake product announcements, let's just post them in here instead. One thread where each top-level comment is just a title and a link.",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-08-10T01:52:23.000Z",
+      "title": "Ask HN: I will help your startup in exchange for food and a place to stay",
+      "url": null,
+      "author": "codeornocode",
+      "points": 584,
+      "story_text": "Hello,\u003cp\u003eThis my third and final time posting this post, first time it was labeled as spam and the second time someone suggested that i edit it and so i did.\u003cp\u003eI have 4 years remaining in my U.S visa, each visit i can stay 6 months, i don\u0026#x27;t want to break any U.S rules that\u0026#x27;s why i want to code for your startup for no money, just food and a place to live in transportation would be nice too but i am not going to take money from you and i am not going to ask your for health insurance or be your employee, i don\u0026#x27;t want to break any rules, i have +8 years of experience in JS, PHP, Ruby mainly as a full stack web developer i also do game development using Unity3D + C#, i\u0026#x27;m a Musician since over 15 years at my free time and i can design sounds and soundtracks i work with many DAWs, i\u0026#x27;m bilingual i speak fluent Arabic and English beside having many more skills.\u003cp\u003eI am doing this because i live in a war torn country, some issues happened and i\u0026#x27;ve lost all my savings, I\u0026#x27;m 31 years old and i don\u0026#x27;t want to spend the rest of my life in this place, i\u0026#x27;ve been to California in 2014 and i loved it so much, i can\u0026#x27;t get an H1B visa because i don\u0026#x27;t have a university degree although i have a high school diploma and a college diploma in business management and e-commerce.\u003cp\u003eIf you\u0026#x27;d like to interview me please send me an e-mail to life.will.get.better.2016@gmail.com, thank you.\u003cp\u003eThank you for reading my post.\u003cp\u003eps: Please if you can\u0026#x27;t help me at least try not to be negative in the comments i already have enough negativity going on in my life and i could really really use some motivation, but after all you are free to write whatever you want of course and i appreciate it.\u003cp\u003eOne more thing, thank you \u0026quot;dang\u0026quot; for telling me about the spam filter and helping me.",
+      "comment_text": null,
+      "num_comments": 279,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1439171543,
+      "relevancy_score": 6197,
+      "_tags": ["story", "author_codeornocode", "story_10032299", "ask_hn"],
+      "objectID": "10032299",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: I will help your startup in exchange for \u003cem\u003efoo\u003c/em\u003ed and a place to stay",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "codeornocode",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "Hello,\u003cp\u003eThis my third and final time posting this post, first time it was labeled as spam and the second time someone suggested that i edit it and so i did.\u003cp\u003eI have 4 years remaining in my U.S visa, each visit i can stay 6 months, i don't want to break any U.S rules that's why i want to code for your startup for no money, just \u003cem\u003efoo\u003c/em\u003ed and a place to live in transportation would be nice too but i am not going to take money from you and i am not going to ask your for health insurance or be your employee, i don't want to break any rules, i have +8 years of experience in JS, PHP, Ruby mainly as a full stack web developer i also do game development using Unity3D + C#, i'm a Musician since over 15 years at my free time and i can design sounds and soundtracks i work with many DAWs, i'm bilingual i speak fluent Arabic and English beside having many more skills.\u003cp\u003eI am doing this because i live in a war torn country, some issues happened and i've lost all my savings, I'm 31 years old and i don't want to spend the rest of my life in this place, i've been to California in 2014 and i loved it so much, i can't get an H1B visa because i don't have a university degree although i have a high school diploma and a college diploma in business management and e-commerce.\u003cp\u003eIf you'd like to interview me please send me an e-mail to life.will.get.better.2016@gmail.com, thank you.\u003cp\u003eThank you for reading my post.\u003cp\u003eps: Please if you can't help me at least try not to be negative in the comments i already have enough negativity going on in my life and i could really really use some motivation, but after all you are free to write whatever you want of course and i appreciate it.\u003cp\u003eOne more thing, thank you \u0026quot;dang\u0026quot; for telling me about the spam filter and helping me.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        }
+      }
+    },
+    {
+      "created_at": "2017-11-26T17:43:46.000Z",
+      "title": "Facebook Is the Junk Food of Socializing (2015)",
+      "url": "http://nautil.us/blog/why-facebook-is-the-junk-food-of-socializing",
+      "author": "dnetesn",
+      "points": 571,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 200,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1511718226,
+      "relevancy_score": 7796,
+      "_tags": ["story", "author_dnetesn", "story_15782014"],
+      "objectID": "15782014",
+      "_highlightResult": {
+        "title": {
+          "value": "Facebook Is the Junk \u003cem\u003eFoo\u003c/em\u003ed of Socializing (2015)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "http://nautil.us/blog/why-facebook-is-the-junk-\u003cem\u003efoo\u003c/em\u003ed-of-socializing",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "dnetesn",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-06-29T00:20:37.000Z",
+      "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database",
+      "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
+      "author": "ecliptik",
+      "points": 554,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 264,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1624926037,
+      "_tags": ["story", "author_ecliptik", "story_27670058"],
+      "objectID": "27670058",
+      "_highlightResult": {
+        "title": {
+          "value": "A Docker \u003cem\u003efoo\u003c/em\u003etgun led to a vandal deleting NewsBlur's MongoDB database",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ecliptik",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-04-13T14:20:12.000Z",
+      "title": "South Korea now recycles 95% of its food waste",
+      "url": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-food-waste/",
+      "author": "okket",
+      "points": 538,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 163,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1555165212,
+      "relevancy_score": 8764,
+      "_tags": ["story", "author_okket", "story_19653138"],
+      "objectID": "19653138",
+      "_highlightResult": {
+        "title": {
+          "value": "South Korea now recycles 95% of its \u003cem\u003efoo\u003c/em\u003ed waste",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-\u003cem\u003efoo\u003c/em\u003ed-waste/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": { "value": "okket", "matchLevel": "none", "matchedWords": [] }
+      }
+    },
+    {
+      "created_at": "2021-03-08T08:31:10.000Z",
+      "title": "Food Prices Are Soaring Faster Than Inflation and Incomes",
+      "url": "https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally",
+      "author": "prostoalex",
+      "points": 514,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 570,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1615192270,
+      "_tags": ["story", "author_prostoalex", "story_26383419"],
+      "objectID": "26383419",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eFoo\u003c/em\u003ed Prices Are Soaring Faster Than Inflation and Incomes",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-\u003cem\u003efoo\u003c/em\u003ed-prices-soar-globally",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "prostoalex",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-07-09T12:26:32.000Z",
+      "title": "Portland approves 10% cap on fees that food delivery apps can charge restaurants",
+      "url": "https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-food-delivery-apps-can-charge-restaurants.html",
+      "author": "Shivetya",
+      "points": 502,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 551,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1594297592,
+      "_tags": ["story", "author_Shivetya", "story_23779420"],
+      "objectID": "23779420",
+      "_highlightResult": {
+        "title": {
+          "value": "Portland approves 10% cap on fees that \u003cem\u003efoo\u003c/em\u003ed delivery apps can charge restaurants",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.oregonlive.com/portland/2020/07/portland-approves-10-cap-on-fees-that-\u003cem\u003efoo\u003c/em\u003ed-delivery-apps-can-charge-restaurants.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "Shivetya",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-03-28T15:24:37.000Z",
+      "title": "From Spain to Germany, farmers warn of fresh food shortages",
+      "url": "https://www.bloomberg.com/news/articles/2020-03-27/from-spain-to-germany-farmers-warn-of-fresh-food-shortages",
+      "author": "montalbano",
+      "points": 464,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 567,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1585409077,
+      "_tags": ["story", "author_montalbano", "story_22711661"],
+      "objectID": "22711661",
+      "_highlightResult": {
+        "title": {
+          "value": "From Spain to Germany, farmers warn of fresh \u003cem\u003efoo\u003c/em\u003ed shortages",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.bloomberg.com/news/articles/2020-03-27/from-spain-to-germany-farmers-warn-of-fresh-\u003cem\u003efoo\u003c/em\u003ed-shortages",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "montalbano",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-10-21T10:28:23.000Z",
+      "title": "Amazon is shipping expired food, customers say",
+      "url": "https://www.cnbc.com/2019/10/20/amazon-is-shipping-expired-baby-formula-and-other-out-of-date-foods.html",
+      "author": "rahuldottech",
+      "points": 464,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 217,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571653703,
+      "_tags": ["story", "author_rahuldottech", "story_21310697"],
+      "objectID": "21310697",
+      "_highlightResult": {
+        "title": {
+          "value": "Amazon is shipping expired \u003cem\u003efoo\u003c/em\u003ed, customers say",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": {
+          "value": "https://www.cnbc.com/2019/10/20/amazon-is-shipping-expired-baby-formula-and-other-out-of-date-\u003cem\u003efoo\u003c/em\u003eds.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "author": {
+          "value": "rahuldottech",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2014-04-01T11:18:05.000Z",
+      "title": "The crushing lameness of April Fools Day on the Internet.",
+      "url": "",
+      "author": "hoodoof",
+      "points": 449,
+      "story_text": "I have a sense of humor.  Really I do.\u003cp\u003eI just don\u0026#x27;t find being pounded with systematic absurdity for an entire day every year as being very funny.\u003cp\u003eI don\u0026#x27;t know how to solve it.  It seems every single company and publication that communicates via the web has a corporate communications department or something that thinks it\u0026#x27;s a corporate priority to come out with something for April Fools. The Internet systematizes, amplifies, focuses, fully resources, funds, schedules, plans and implements high production value foolery.  Corporate drone: \u0026quot;Larry, Sergey, have you signed off yet on this years $4M April Fools budget? How are we going to attract and recruit the best engineers unless we\u0026#x27;ve got a reputation for the very best and most foolish April Fools trickery?\u0026quot; Ugh.\u003cp\u003eIt\u0026#x27;s just kind of silly and boring and makes we wish April 2 would come as soon as possible. As I read the Internet on April 1 I just try to self filter out all the silly unbelievable garbage. Most news sites (including HN) are hardly worth reading April 1.\u003cp\u003eYou know when someone who thinks they are funny insists on telling lame jokes, and the audience feels an obligation to give an acknowledging guffaw? It\u0026#x27;s like an whole Internet day worth of that.\u003cp\u003eI feel like the Grinch Who Stole April Fools but really it has to be said.  If you\u0026#x27;ve got it in mind to do some fine ol\u0026#x27; foolin then maybe the classy thing to do is leave the foolin to others and spare us one more depressingly lame absurdity.",
+      "comment_text": null,
+      "num_comments": 170,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1396351085,
+      "relevancy_score": 5243,
+      "_tags": ["story", "author_hoodoof", "story_7507297"],
+      "objectID": "7507297",
+      "_highlightResult": {
+        "title": {
+          "value": "The crushing lameness of April \u003cem\u003eFoo\u003c/em\u003els Day on the Internet.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        },
+        "url": { "value": "", "matchLevel": "none", "matchedWords": [] },
+        "author": {
+          "value": "hoodoof",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "I have a sense of humor.  Really I do.\u003cp\u003eI just don't find being pounded with systematic absurdity for an entire day every year as being very funny.\u003cp\u003eI don't know how to solve it.  It seems every single company and publication that communicates via the web has a corporate communications department or something that thinks it's a corporate priority to come out with something for April \u003cem\u003eFoo\u003c/em\u003els. The Internet systematizes, amplifies, focuses, fully resources, funds, schedules, plans and implements high production value \u003cem\u003efoo\u003c/em\u003elery.  Corporate drone: \u0026quot;Larry, Sergey, have you signed off yet on this years $4M April \u003cem\u003eFoo\u003c/em\u003els budget? How are we going to attract and recruit the best engineers unless we've got a reputation for the very best and most \u003cem\u003efoo\u003c/em\u003elish April \u003cem\u003eFoo\u003c/em\u003els trickery?\u0026quot; Ugh.\u003cp\u003eIt's just kind of silly and boring and makes we wish April 2 would come as soon as possible. As I read the Internet on April 1 I just try to self filter out all the silly unbelievable garbage. Most news sites (including HN) are hardly worth reading April 1.\u003cp\u003eYou know when someone who thinks they are funny insists on telling lame jokes, and the audience feels an obligation to give an acknowledging guffaw? It's like an whole Internet day worth of that.\u003cp\u003eI feel like the Grinch Who Stole April \u003cem\u003eFoo\u003c/em\u003els but really it has to be said.  If you've got it in mind to do some fine ol' \u003cem\u003efoo\u003c/em\u003elin then maybe the classy thing to do is leave the \u003cem\u003efoo\u003c/em\u003elin to others and spare us one more depressingly lame absurdity.",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": ["foo"]
+        }
+      }
+    }
+  ],
+  "nbHits": 480898,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": true,
+  "exhaustive": { "nbHits": false, "typo": true },
+  "query": "foo",
+  "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=foo",
+  "processingTimeMS": 5,
+  "processingTimingsMS": {
+    "afterFetch": { "total": 1 },
+    "fetch": { "scanning": 2, "total": 4 },
+    "request": { "roundTrip": 15 },
+    "total": 5
+  },
+  "serverTimeMS": 6
+}
+
